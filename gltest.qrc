@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/brush.png</file>
+        <file>image/circle.png</file>
+        <file>image/filed round.png</file>
+        <file>image/filled Rect.png</file>
+        <file>image/filled RR.png</file>
+        <file>image/line.png</file>
+        <file>image/RR.png</file>
+        <file>image/rubber.png</file>
+        <file>image/rect.png</file>
+        <file>image/curve1.png</file>
+        <file>image/curve2.png</file>
+    </qresource>
+</RCC>
